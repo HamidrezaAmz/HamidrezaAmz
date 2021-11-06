@@ -1,4 +1,8 @@
 ## Hi there 👋, I am Hamidreza Amz
+[![Linkedin Badge](https://img.shields.io/badge/-HamidrezaAmz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/reza-amoozadeh-72b50789/)](https://www.linkedin.com/in/reza-amoozadeh-72b50789/)
+[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1508607/hamid-reza)](https://stackoverflow.com/users/1508607/hamid-reza)
+[![Gmail Badge](https://img.shields.io/badge/-hamidreza7150@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hamidreza7150@gmail.com)](mailto:hamidreza7150@gmail.com)
+[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HamidrezaAmz)
 
 I'm a self-taught passionate android developer from Earth :earth_asia:
 
