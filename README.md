@@ -1,5 +1,8 @@
 ## Hi there 👋, I am Hamidreza Amz
 
+I'm a self-taught passionate android developer from Earth :earth_asia:
+
+
 * 🔭 I’m currently working on client side Java/kotlin technologies in android.
 * 🌱 I’m currently learning UI/UX design principles and techniques (Just for fun)
 * 💬 Ask me about android development or UI/UX, I will be happy if i can help you
