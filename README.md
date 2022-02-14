@@ -1,8 +1,9 @@
 ## Hi there 👋, I am Hamidreza Amz
-[![Linkedin Badge](https://img.shields.io/badge/-HamidrezaAmz-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https:https://www.linkedin.com/in/reza-amoozadeh-72b50789/)](https://www.linkedin.com/in/reza-amoozadeh-72b50789/)
-[![Stackoverflow Badge](https://img.shields.io/badge/-Stackoverflow-4CA143?style=flat-square&logo=Stackoverflow&logoColor=white&link=https://stackoverflow.com/users/1508607/hamid-reza)](https://stackoverflow.com/users/1508607/hamid-reza)
-[![Gmail Badge](https://img.shields.io/badge/-hamidreza7150@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hamidreza7150@gmail.com)](mailto:hamidreza7150@gmail.com)
-[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/HamidrezaAmz)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hamidrezaamz/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-amoozadeh-72b50789/)
+[![Stackoverflow Badge](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/1508607/hamid-reza)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hamidreza7150@gmail.com)
 
 I'm a self-taught passionate android developer from Earth :earth_asia:
 
